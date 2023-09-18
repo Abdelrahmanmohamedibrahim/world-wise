@@ -1,0 +1,139 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Tunis",
+      "country": "Tunisia",
+      "date": "2023-09-07T05:28:38.053Z",
+      "notes": "fantastic\n",
+      "position": {
+        "lat": "36.79169061907076",
+        "lng": "10.151367187500002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "date": "2023-09-22T05:35:51.000Z",
+      "notes": " good\n",
+      "position": {
+        "lat": "29.973970240516614",
+        "lng": "31.289062500000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Allyene",
+      "country": "Morocco",
+      "date": "2023-09-07T06:03:06.005Z",
+      "notes": "almost good",
+      "position": {
+        "lat": "35.67514743608467",
+        "lng": "-5.383300781250001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Zag",
+      "country": "Morocco",
+      "date": "2023-09-07T06:03:53.186Z",
+      "notes": "fantastic",
+      "position": {
+        "lat": "28.34306490482549",
+        "lng": "-9.8876953125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Ighram",
+      "country": "Morocco",
+      "date": "2023-09-08T14:39:22.223Z",
+      "notes": "nicee\n",
+      "position": {
+        "lat": "29.935895213372444",
+        "lng": "-8.481445312500002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Ouled Sidi Mihoub",
+      "country": "Algeria",
+      "date": "2023-09-11T19:27:51.022Z",
+      "notes": "fff",
+      "position": {
+        "lat": "35.9602229692967",
+        "lng": "0.6811523437500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "date": "2023-09-16T19:07:53.769Z",
+      "notes": "good <3 ",
+      "position": {
+        "lat": "41.368564136809695",
+        "lng": "2.1862792968750004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Ain Bni Mathar",
+      "country": "Morocco",
+      "date": "2023-09-16T19:19:31.304Z",
+      "notes": "okaay\n",
+      "position": {
+        "lat": "34.125447565116126",
+        "lng": "-1.9995117187500002"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Tripoli",
+      "country": "Libya",
+      "date": "2023-09-16T19:19:48.264Z",
+      "notes": "wow!!",
+      "position": {
+        "lat": "32.84267363195431",
+        "lng": "13.16162109375"
+      },
+      "id": 98443206
+    }
+  ]
+}
